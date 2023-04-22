@@ -1,2 +1,2 @@
 # Fundamentals 2023
- All 
+ All the Labs and Exercises
